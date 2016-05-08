@@ -10,3 +10,9 @@ function hello($name){
 
 
 hello('Gideon');
+
+?>
+
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid blanditiis consectetur, dolores, earum harum id iste labore magni minus mollitia nulla officia quae quaerat quas quidem sit vel voluptas? Non.
+</p>
